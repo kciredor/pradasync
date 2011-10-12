@@ -1,0 +1,7 @@
+LG Prada Phone
+
+Two way sync written in Perl (c) 2007 Roderick Schaefer
+
+
+Works on Mac currently, with Apple address book support
+Requires some additional libs (view sourcecode)
